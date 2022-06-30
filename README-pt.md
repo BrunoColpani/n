@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="GetAPet" title="#Node Todo"  />
+    Node Todo
 </h1>
 
 <h4 align="center"> 
